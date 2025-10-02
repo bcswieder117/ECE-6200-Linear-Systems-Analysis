@@ -7,7 +7,7 @@ Portfolio of all work done in this course during the Fall 2025 semester @ Tennes
 
 1) Homework I Score: Likely back tomorrow, Oct. 2, 2025
 2) Homework II Score: (Due on Oct. 9, 2025)
-3) Exam I Score: Will be posted Oct. 13th, 2025 (Due on Oct. 15, 2025)
+3) Exam I Score: TBD 
 4) Exam II Score: TBD
 5) Project Score: TBD (Grade will be uploaded here - Project will have its own repository)
 6) Final Exam Score: TBD
