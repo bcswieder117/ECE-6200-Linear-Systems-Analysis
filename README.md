@@ -6,7 +6,7 @@
 Portfolio of all work done in this course during the Fall 2025 semester @ Tennessee Tech.
 
 1) Homework I Score: TBD
-2) Homework II Score: (Due on Oct. 9, 2025)
+2) Homework II Score: TBD
 3) Exam I Score: TBD 
 4) Exam II Score: TBD
 5) Project Score: TBD (Grade will be uploaded here - Project will have its own repository)
