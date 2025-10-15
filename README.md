@@ -6,7 +6,7 @@
 Portfolio of all work done in this course during the Fall 2025 semester @ Tennessee Tech.
 
 1) Homework I Score: 86 B
-2) Homework II Score: TBD
+2) Homework II Score: 70 C 
 3) Homework III Score: TBD
 4) Homework IV Score: TBD
 5) Homework V Score: TBD
