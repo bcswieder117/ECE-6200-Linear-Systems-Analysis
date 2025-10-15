@@ -7,9 +7,12 @@ Portfolio of all work done in this course during the Fall 2025 semester @ Tennes
 
 1) Homework I Score: 86 B
 2) Homework II Score: TBD
-3) Exam I Score: TBD 
-4) Exam II Score: TBD
-5) Project Score: TBD (Grade will be uploaded here - Project will have its own repository)
-6) Final Exam Score: TBD
+3) Homework III Score: TBD
+4) Homework IV Score: TBD
+5) Homework V Score: TBD
+6) Exam I Score: TBD 
+7) Exam II Score: TBD
+8) Project Score: TBD (Grade will be uploaded here - Project will have its own repository)
+9) Final Exam Score: TBD
 
 Overall grade was a TBD by December 12th, 2025.
