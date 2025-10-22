@@ -7,7 +7,7 @@ Portfolio of all work done in this course during the Fall 2025 semester @ Tennes
 
 1) Homework I Score: 86 B (above class average)
 2) Homework II Score: To be regraded
-3) Homework III Score: TBD
+3) Homework III Score: TBD (Due 10/30/2025)
 4) Homework IV Score: TBD
 5) Homework V Score: TBD
 6) Exam I Score: TBD 
