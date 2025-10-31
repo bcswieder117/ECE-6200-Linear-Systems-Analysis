@@ -2,6 +2,7 @@
 
 
 **Course Description**: State space analysis of multiple-input/multiple-output continuous and discrete-time systems; linear spaces; time-varying systems, controllability, observability, and stability. 
+
 **Academic note (personal work):** This repository contains my own study notes and worked exercises for ECE 6200 / linear systems. They are *not* official course materials, *not* instructor solutions, and may contain mistakes. Definitions are paraphrased from standard texts/lectures for personal learning. If you are taking a similar course, follow your instructor’s policies and use this only as a study reference. 
 
 
