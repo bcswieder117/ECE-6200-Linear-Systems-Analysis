@@ -12,7 +12,7 @@
 4) Homework IV Score: TBD (Due 11/20/2025)
 5) Homework V Score: TBD
 6) Exam I Score: 100 A 
-7) Exam II Score: TBD
+7) Exam II Score: TBD (Turned in 11/25/2025)
 8) Project Score: TBD (Grade will be uploaded here - Project will have its own repository)
 9) Final Exam Score: TBD
 
