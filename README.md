@@ -9,8 +9,7 @@
 1) Homework I Score: 86 B (above class average)
 2) Homework II Score: 90 A
 3) Homework III Score: 100 A
-4) Homework IV Score: TBD (Due 11/20/2025)
-5) Homework V Score: TBD
+4) Homework IV Score: 97 A 
 6) Exam I Score: 100 A 
 7) Exam II Score: TBD (Turned in 11/25/2025)
 8) Project Score: TBD (Grade will be uploaded here - Project will have its own repository)
