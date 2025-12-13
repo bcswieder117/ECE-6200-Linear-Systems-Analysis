@@ -11,7 +11,7 @@
 3) Homework III Score: 100 A
 4) Homework IV Score: 97 A 
 6) Exam I Score: 100 A 
-7) Exam II Score: TBD (Turned in 11/25/2025)
+7) Exam II Score: 94 A? 
 8) Project Score: TBD (Grade will be uploaded here - Project will have its own repository)
 9) Final Exam Score: TBD
 
