@@ -11,9 +11,9 @@
 3) Homework III Score: 100 A
 4) Homework IV Score: 97 A 
 6) Exam I Score: 100 A 
-7) Exam II Score: 94 A? 
-8) Project Score: TBD (Grade will be uploaded here - Project will have its own repository)
-9) Final Exam Score: TBD
+7) Exam II Score: 94 A
+8) Project Score: A
+9) Final Exam Score: A
 
-Overall grade was a TBD by December 12th, 2025. Portfolio of all work done in this course during the Fall 2025 semester @ Tennessee Tech. 
+Overall grade was an A on December 15th, 2025. Portfolio of all work done in this course during the Fall 2025 semester @ Tennessee Tech. 
 
